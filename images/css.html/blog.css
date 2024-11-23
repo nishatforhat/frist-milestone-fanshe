@@ -1,0 +1,20 @@
+h3{
+    font-size: 30px;
+    text-decoration:overline ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog{
+    /* display: none; */
+    /* visibility: hidden; */
+    box-shadow: 10px 20px  10px blueviolet;
+
+}
+.incide{
+    border: 2px solid purple;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+li{
+    display: inline;
+}
